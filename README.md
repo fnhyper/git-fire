@@ -1,3 +1,3 @@
-Course Follow along with doc.
+## Course Follow along with doc.
 
 Markdown
